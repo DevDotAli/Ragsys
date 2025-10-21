@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23016190/README.md)
 Retrieval-Augmented Generation (RAG) Based Ai.
 ## Run Locally
 
