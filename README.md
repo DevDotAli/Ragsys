@@ -39,13 +39,14 @@ To run this project, you will need to add the following environment variables to
 ```steps
 Step 1: Put your PDF in docs folder.
 ```
-
 ```steps
-Step 2: Run main.py file.
+Step 2: Rename your PDF as example.pdf or it wont work.
 ```
-
 ```steps
-Step 3: Ask Questions about the PDF in terminal.
+Step 3: Run main.py file.
+```
+```steps
+Step 4: Ask Questions about the PDF in terminal.
 ```
 
 ## Authors
